@@ -1,0 +1,5 @@
+applications:
+- name: my-app 
+  memory: 128M
+  buildpack : my-app
+  path: dist
